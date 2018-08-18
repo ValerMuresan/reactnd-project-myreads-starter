@@ -22,7 +22,7 @@ The search page also has a link to / (the root URL), which leads back to the mai
 
 To use locally:
 
-* clone/download the project from [`GitHub`](https://valermuresan.github.io/reactnd-project-myreads-starter/)
+* clone/download the project from [`GitHub`](https://github.com/ValerMuresan/reactnd-project-myreads-starter#search)
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
